@@ -1,0 +1,12 @@
+# 密钥类：.env 不入库，模板 .env.example 入库
+.env
+
+# Python 缓存与编译产物
+__pycache__/
+*.pyc
+
+# 开发期临时探针（归档目录，保留开发轨迹但不对外）
+_dev_tools/
+
+# 运行产物（每次运行重新生成，无需入库）
+demo_out.txt
