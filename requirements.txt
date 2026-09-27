@@ -1,0 +1,11 @@
+# CHATBI 运行时依赖（Python 3.13 / Windows 实测版本）
+langchain==1.4.0
+langchain-core==1.6.2
+langchain-community==0.4.2
+langchain-ollama==1.1.0
+langgraph==1.2.11
+fastapi==0.141.1
+uvicorn==0.53.0
+pydantic==2.13.5
+PyMySQL==1.2.3
+faiss-cpu==1.15.1
